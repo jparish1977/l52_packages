@@ -1,4 +1,2 @@
 *
-!.gitignore
-!.gitattributes
-!composer.json
+!packages
